@@ -1,0 +1,26 @@
+.bg-li{
+    background-color: #d8dae9;
+}
+ul {
+    list-style-type: none;
+}
+ul li {
+    padding-top: 0.7rem;
+    //background-color: white;
+}
+ul li a:hover{
+   // margin: 0.5rem;
+    padding-top:0.7rem ;
+    padding-bottom: 0.7rem;
+    padding-right: 3rem;
+    cursor: pointer;
+    background-color: white;
+    border-radius: 10px;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+.btn-new-playlist{
+    background-color: #c7b1f0;
+}
